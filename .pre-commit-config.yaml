@@ -1,3 +1,4 @@
+exclude: 'src/original'
 repos:
 -   repo: https://github.com/igrr/astyle_py.git
     rev: master
